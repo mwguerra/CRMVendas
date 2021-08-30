@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CRM Vendas</string>
+    <string name="button_new_lead">Novo Lead</string>
+</resources>
